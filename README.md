@@ -55,6 +55,11 @@
 
 ### 🧩 LeetCode Stats (FAST + WORKING)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rehanshuraj?theme=dark&ext=heatmap)
+### 🧩 LeetCode Rating (LIVE)
+
+<p align="left">
+  <img src="https://leetcode-badge.vercel.app/rehanshuraj/rating?theme=dark" />
+</p>
 
 ### 🏅 CodeChef Stats (FAST + WORKING)
 ![CodeChef Stats](https://codechef-badge.vercel.app/api/codechef?user=rihanshuraj)
