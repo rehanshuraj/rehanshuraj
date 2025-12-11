@@ -3,12 +3,12 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🔭 I’m currently working on **MERN Stack & Backend Projects**
 - 🌱 Learning **Node.js | Express.js | MongoDB | DevOps**
-- 👨‍💻 All of my open-source work is available here
-- 💬 Ask me about **JavaScript, Node.js, Express, React, Database**
-- ⚡ Fun fact: **I love debugging more than coding ;)**
+- 👨‍💻 All of my open-source work is available on my GitHub
+- 💬 Ask me about **JavaScript, Node.js, Express, React**
+- ⚡ Fun fact: **I debug fast and code faster 😉**
 
 ---
 
@@ -24,9 +24,9 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### **Tools & Other**
+### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
@@ -46,28 +46,24 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshuraj&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshuraj&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-## 🧠 Competitive Programming Dashboard
 
-<p>
-  <!-- LeetCode card -->
-  <a href="https://leetcode.com/rehanshuraj" target="_blank">
-    <img alt="LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=rehanshuraj&theme=dark"/>
-  </a>
+# 🧠 Competitive Programming Dashboard
 
-  <!-- CodeChef card -->
-  <a href="https://www.codechef.com/users/rehanshuraj" target="_blank">
-    <img alt="CodeChef Stats" src="https://codechef-readme-stats.onrender.com/rehanshuraj"/>
-  </a>
-</p>
+### 🧩 LeetCode Stats (FAST + WORKING)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rehanshuraj?theme=dark&ext=heatmap)
 
-### Quick links
-- 🔗 [My LeetCode profile](https://leetcode.com/rehanshuraj)
-- 🔗 [My CodeChef profile](https://www.codechef.com/users/rehanshuraj)
+### 🏅 CodeChef Stats (FAST + WORKING)
+![CodeChef Profile](https://cp-logo.vercel.app/codechef/rehanshuraj)
 
+### 🔗 Quick Links
+- [My LeetCode Profile](https://leetcode.com/rehanshuraj)
+- [My CodeChef Profile](https://www.codechef.com/users/rehanshuraj)
+
+---
 
 ## 📈 Activity Graph
 
@@ -81,13 +77,13 @@
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ❤️ Support
-
-If you like my work, consider giving my repositories a ⭐!
+If you like my work, consider giving my repositories a ⭐  
+It motivates me to contribute more!
 
