@@ -63,6 +63,8 @@
 
 ### 🏅 CodeChef Stats
 ![CodeChef Stats](https://codechef-badge.vercel.app/api/codechef?user=rihanshuraj)
+![CodeChef Heatmap](https://raw.githubusercontent.com/rehanshuraj/codechef-badge/main/assets/codechef-heatmap.svg)
+
 ### 🔗 Quick Links
 - [My LeetCode Profile](https://leetcode.com/rehanshuraj)
 - [My CodeChef Profile](https://www.codechef.com/users/rihanshuraj)
