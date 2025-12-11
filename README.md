@@ -53,7 +53,7 @@
 
 # 🧠 Competitive Programming Dashboard
 
-### 🧩 LeetCode Stats (FAST + WORKING)
+### 🧩 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rehanshuraj?theme=dark&ext=heatmap)
 ### 🧩 LeetCode Rating (LIVE)
 
@@ -61,7 +61,7 @@
   <img src="https://leetcode-badge.vercel.app/rehanshuraj/rating?theme=dark" />
 </p>
 
-### 🏅 CodeChef Stats (FAST + WORKING)
+### 🏅 CodeChef Stats
 ![CodeChef Stats](https://codechef-badge.vercel.app/api/codechef?user=rihanshuraj)
 ### 🔗 Quick Links
 - [My LeetCode Profile](https://leetcode.com/rehanshuraj)
