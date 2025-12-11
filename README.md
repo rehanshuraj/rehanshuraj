@@ -57,11 +57,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rehanshuraj?theme=dark&ext=heatmap)
 
 ### 🏅 CodeChef Stats (FAST + WORKING)
-![CodeChef Profile](https://cp-logo.vercel.app/codechef/rehanshuraj)
+![CodeChef Profile](https://cp-logo.vercel.app/codechef/rihanshuraj)
 
 ### 🔗 Quick Links
 - [My LeetCode Profile](https://leetcode.com/rehanshuraj)
-- [My CodeChef Profile](https://www.codechef.com/users/rehanshuraj)
+- [My CodeChef Profile](https://www.codechef.com/users/rihanshuraj)
 
 ---
 
