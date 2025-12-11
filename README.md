@@ -50,6 +50,24 @@
 </p>
 
 ---
+## 🧠 Competitive Programming Dashboard
+
+<p>
+  <!-- LeetCode card -->
+  <a href="https://leetcode.com/rehanshuraj" target="_blank">
+    <img alt="LeetCode Stats" src="https://leetcode-stats-six.vercel.app/?username=rehanshuraj&theme=dark"/>
+  </a>
+
+  <!-- CodeChef card -->
+  <a href="https://www.codechef.com/users/rehanshuraj" target="_blank">
+    <img alt="CodeChef Stats" src="https://codechef-readme-stats.onrender.com/rehanshuraj"/>
+  </a>
+</p>
+
+### Quick links
+- 🔗 [My LeetCode profile](https://leetcode.com/rehanshuraj)
+- 🔗 [My CodeChef profile](https://www.codechef.com/users/rehanshuraj)
+
 
 ## 📈 Activity Graph
 
